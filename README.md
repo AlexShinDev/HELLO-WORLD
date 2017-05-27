@@ -1,2 +1,3 @@
 # HELLO-WORLD
-GitHub tutorial
+
+Just someone learning on freecodecamp
